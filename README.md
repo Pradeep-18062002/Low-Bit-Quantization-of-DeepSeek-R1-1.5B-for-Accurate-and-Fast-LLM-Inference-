@@ -84,13 +84,6 @@ Conclusion: W8A8 offers the best trade-off. W4A16 works with GPTQ, but is hardwa
 
 ---
 
-## Resources
-
-Code and Quantized Models:  
-[Google Drive Link](https://drive.google.com/drive/folders/1mMtMO-6-mhAsuiGPRL9UEQ1557r2b2m?usp=sharing)
-
----
-
 ## Team
 
 - Pradeep Raj Prabhu Raj – GPTQModifier pipeline, result analysis, report writing  
